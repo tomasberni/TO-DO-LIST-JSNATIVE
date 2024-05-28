@@ -1,0 +1,7 @@
+TODO
+
+NECESITO:
+
+Un Input 
+boton que diga añadir
+cuando clicke el boton que lo de input aparezca a la derecha
